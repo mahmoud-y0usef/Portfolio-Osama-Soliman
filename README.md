@@ -3,7 +3,7 @@ This Portfolio is responsive to all screen sizes
 <br>
 Languages used : html - css - js
 <br>
-Technologies used : bootstrap
+Technologies used : bootstrap - seo
 <br>
 Technique used to upload files : firebase - github
 <br>
