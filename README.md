@@ -7,6 +7,8 @@ Technologies used : bootstrap - seo
 <br>
 Technique used to upload files : firebase - github
 <br>
+video : https://youtu.be/BPudNj47SXI
+<br>
 <br>
 <img src="osama-soliman/viewosamasoliman.png">
 <br>
