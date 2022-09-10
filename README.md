@@ -1,4 +1,6 @@
 # Portfolio-Osama-Soliman
+This Portfolio is responsive to all screen sizes
+<br>
 Languages used : html - css - js
 <br>
 Technologies used : bootstrap
