@@ -5,7 +5,7 @@ Languages used : html - css - js
 <br>
 Technologies used : bootstrap - seo
 <br>
-Technique used to upload files : firebase - github
+Technique used to upload files : firebase - github - vercel
 <br>
 video : https://youtu.be/BPudNj47SXI
 <br>
